@@ -1,7 +1,7 @@
 {
   "name": "yandex/php-http-signature",
   "description": "PHP library for HTTP Signature",
-  "license": "",
+  "license": "MIT",
   "type": "library",
   "authors": [],
   "autoload": {
